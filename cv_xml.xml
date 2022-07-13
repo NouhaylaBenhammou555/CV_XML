@@ -1,0 +1,107 @@
+<?xml   version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="CV_BENHAMMOU_NOUHAYLA.xsl"?>
+<?xml-stylesheet type= "text/css" href="style.css" ?>
+
+<cv>
+	<modes>
+		<mode nom="default"/>
+		<mode nom="cv" lien-cv-complet="CV_Benhammou_Nouhayla.html"/>
+		<mode nom="cv_Nouhayla" lien-cv-complet="CV_Benhammou_Nouhayla.html"/>
+	</modes> 
+	
+	<nom>BENHAMMOU</nom>
+	<prenom>Nouhayla</prenom>
+
+	<CONTACT>
+		<telephone	type="mobile"	>+21222367876</telephone>
+		<e-mail>nouhaylabenhammou@gmail.com</e-mail>
+		<photo	path="C:\Users\Nouhaila\Downloads\CV_XML\photoCV.jpg" />
+	</CONTACT>
+    
+		
+	<donnees_formation  nom= "Parcours Académique">
+	   <abstract>Parcours Académique:</abstract>
+		<titre><![CDATA[Ecole nationale supérieure d'informatique et d'analyse des systèmes E N S I A S      2 0 2 0 
+- 2 0 2 3]]></titre>
+			<description>
+				<![CDATA[Ingénierie des Systèmes Embarqués et Mobiles (ISEM )]]>
+			</description>
+			<affichage	mode="default"
+						display="minimized"
+						/>
+		
+		<titre><![CDATA[Classes préparatoires en grandes écoles - C P G E  2 0 1 8 - 2 0 2 0]]></titre>
+			<description>
+				<![CDATA[CPGE Moulay Youssef (MPSI/MP)]]>
+			</description>
+			<affichage	mode="default"
+						display="minimized"
+						/>
+		
+		<titre><![CDATA[Baccalauréat  2 0 1 7 - 2 0 1 8]]></titre>
+			<description>
+				<![CDATA[SCIENCES Physiques]]>
+			</description>
+			<affichage	mode="default"
+						display="minimized"
+						/>
+		
+			
+		
+	</donnees_formation>
+	
+	<experience	nom="Stage d'initiation">
+			<abstract>Stage d'initiation: INTELLCAP</abstract>
+			<description>Du 1 juillet 2021 au 8 aout 2021
+Projet  :  Conception et réalisation d'un site web de recommandation de logements basé sur l'apprentissage automatique
+Outils: Machine Learning- Analyse de donnée - Webscraping</description>
+			<affichage	mode="default"
+					display="minimized"
+					/>
+	</experience>
+	<projet	nom="Projets">
+			<description>
+			Projets:
+				-EMG :Classification des gestes de la main à l’aide de signaux d’électromyographie de surface pour les amputés des membres supérieurs
+				-FPGA color detection:Conception FPGA d'un réseau de neurones pour la détection des couleurs
+				-Smart Fleet Management System:Réalisation d'un système de gestion de véhicules basé sur des solutions IoT et cloud 
+				-ComHDL:Conception et réalisation d'un mini compilateur C pour un langage de programmation VHDL
+			
+	        </description>
+	</projet>
+
+	<activité	nom="activité">
+			<text>activités parascolaires:
+			-Animatrice à l'ENSIAS Radio
+				-Porte Parole de l'association des élèves  ingénieurs
+				-Vice- président du Forum GENI-Entreprises
+				-Bénévolat au club social de l'ENSIAS
+				-Bénévolat à LIONS CLUBS INTERNATIONAL</text>
+	</activité>
+					
+	<langues	nom="Langues">
+			<text>Langues:
+			      -Français:Courant-Dalf C1
+			      -Anglais: Courant
+			      -Arabe: Maternelle
+				  -Espagnol: Notions de base </text>
+	</langues>
+
+	<competences	nom="Compétences">
+			<text>
+			    Compétences:
+				langage de programmation: C - Python - Java -VHDL-PL/SQL
+				Développement web : Html , Css,flask,django
+				SGBD : Oracle Database, MySQL
+				Modélisation : UML,SysML
+			 </text>
+	</competences>
+<centre_d_interet	nom="Centres d'intérets">
+			<text>Centres d'intérets:
+			      -Arts plastiques      
+			      -Echecs
+				  -Bénévolat               
+				  -Maquetisme</text>
+	</centre_d_interet>
+					
+</cv>
